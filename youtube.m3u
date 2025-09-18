@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", CBA News
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758251911/ei/J3fMaPqBMtqMmLQPw9yWqQI/ip/57.151.136.168/id/8NMMl7M3BvE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554425/txs/51554424%2C51554425/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/ATw7iSWtVo_TkqvPTlBmWcgAVWQy1N141y6RQ6EbR3K5gncuCIpgschGY9UPgbfliBjK2eJ14tNMgH5o/spc/hcYD5cM2n8Iyl7jIyYaC6UKisBfdNIZ9or8Mg22Xity3f9jhgxR1p_mxl6Mrxon3KJi5HyAB/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfNavpH99nZSFX2x9G8FzhFstyWaSVTLWUAsfXFTACh0CIFpj1uMh5vdigUDVvJ0gYccnhL_kX6gyI2LcmSx6xyYg/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/bRy5mAV3W-8SfwjLeu3Cgz_XVXx6fYF1SDrELnKgSJ0F8zncegBfGyW9SUV9MqeesDJTWRBLkg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Ahmad Zainuddin Al Banjary
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_n
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_News_logo_2021.png/799px-Sky_News_logo_2021.png" tvg-id="", Sky News
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758251945/ei/SXfMaIn5D8KNmLQP6NyZqQ4/ip/57.151.136.168/id/cDs4MYUYiFM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXsIXi-2UfsnTpMBzEcACtFpUXieJiax4FfJrMR7c5ovCeW__cNg87FdKZ9n2WMfPHaMaJjFY02/spc/hcYD5VEffKh5uBQtcIhJkpLoyzob7ksWyPtrmfCwXT6db4pts6kGYf-k1bPTbS0w_VPxK8B7/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMXaXQj8mlOx6I_aTMYOw15KTQk2jzgNXsYRuJWq2xcoCIQCFA4pLep0ut9L5tDAMvK5YOFOANR5VqXpmdQcvflEgCQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3uHlD-z_JoaGtAPHXtrbd66fa0a9q8A3w1giLbA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Space Videos
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
